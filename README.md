@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucasgm22, my full name is Lucas Guimarães Miranda, vamos buscar o HEXA :D
+- 👋 Hi, I’m @Lucasgm22, my full name is Lucas Guimarães Miranda!
 - 👀 My interest are Mathematics or more specific in Algebra, Software Development, Guitar, Games and a bunch more...
 - 🌱 I’m currently learning Java Development and Mathematics
 - 💞️ I’m looking to collaborate on anything interesting 
