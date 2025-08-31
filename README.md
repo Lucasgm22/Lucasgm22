@@ -35,5 +35,4 @@ My interest in mathematics is not just a hobby; it's the foundation of how I app
 
 ### 📊 My GitHub Stats
 
-[![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasgm22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Lucasgm22)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgm22&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Lucasgm22)
